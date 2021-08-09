@@ -53,8 +53,9 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">APPUiO Example Source To Image PHP</p>
+        <h1>Hallo <?php echo 'Advanced UniByte'?></h1>
+	<p class="lead">APPUiO Example Source To Image PHP</p>
+	<p>Bla bla bla</p>
       </div>
 
     </div><!-- /.container -->
